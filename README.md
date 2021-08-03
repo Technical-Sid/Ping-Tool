@@ -6,7 +6,7 @@ Also Saves The Details of Captured Requests & Network Tested and More into a Ver
 
 Password To Launch The Tool - " India " - (Don't Consider the Brackets)
 
-Follow for More Tools : www.github.com/Techincal-Sid/
+Follow for More Tools : www.github.com/Technical-Sid/
 
 Credits - @ WhiteHatNinja - (Mr.Siddhesh)
 
